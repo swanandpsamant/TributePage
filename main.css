@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Gloria+Hallelujah|Orbitron|Ubuntu+Mono');
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 2.8em;
+    text-decoration-line: underline;
+}
+
+#main {
+    text-align: center;
+    background-color: #eee;
+    border-radius: 15px;
+    
+}
+
+#img-div {
+    margin:-5px;
+    margin-top:20px;
+    width:100%;
+    border:5px solid white;
+    background: rgb(2, 2, 3);
+    border-radius: 15px;
+}
+
+#img-caption {
+    margin: 15px;
+    font-family: 'Orbitron', sans-serif;
+    color: aliceblue;
+    
+}
+
+#h1-caption {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1em;
+}
+
+#image {
+    width: 70% ;
+    height: 5%;
+    padding-top: 50px;
+    border-radius: 50px 50px;
+
+}
+
+hr {
+    margin-top: 25px;
+    width: 60%;
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+    background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+    background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
+    background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+}
+
+#headline{
+    margin-top:50px;
+    text-align:center;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 2em;
+}
+
+#footer-container {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+#quote {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+blockquote {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+ul {
+  max-width:550px;
+  margin:0 auto;
+  text-align:left;
+}
+
+li{
+    margin: 10px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 1.1em;
+
+}
+
+strong {
+    font-size: 1.5em;
+    text-decoration-line: underline;
+}
+
+blockquote{
+    font-style: italic;
+}
